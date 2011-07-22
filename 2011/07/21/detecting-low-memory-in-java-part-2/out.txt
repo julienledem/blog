@@ -1,0 +1,32 @@
+it=   0 - Par Eden Space: u= 49% cu=  0% th=0% - Par Survivor Space: u=  0% cu=  0% th=0% - CMS Old Gen: u=  0% cu=  0% th=79%
+it= 100 - Par Eden Space: u= 16% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 36% cu=  0% th=79%
+it= 200 - Par Eden Space: u= 86% cu=  0% th=0% - Par Survivor Space: u= 95% cu= 95% th=0% - CMS Old Gen: u= 24% cu= 21% th=79%
+memory threshold exceeded !!! : 
+        - Par Eden Space: u=  9% cu=  0% th=0% - Par Survivor Space: u= 95% cu= 95% th=0% - CMS Old Gen: u= 32% cu= 21% th=79%
+memory threshold exceeded !!! : 
+        - Par Eden Space: u=  0% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 83% cu= 21% th=79%
+it= 300 - Par Eden Space: u= 50% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 33% cu= 30% th=79%
+memory threshold exceeded !!! : 
+        - Par Eden Space: u=  0% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 83% cu= 30% th=79%
+it= 400 - Par Eden Space: u= 15% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 51% cu= 51% th=79%
+memory threshold exceeded !!! : 
+        - Par Eden Space: u=  0% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 80% cu= 51% th=79%
+it= 500 - Par Eden Space: u= 79% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 75% cu= 46% th=79%
+memory threshold exceeded !!! : 
+        - Par Eden Space: u=  0% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 80% cu= 46% th=79%
+memory threshold exceeded !!! : 
+        - Par Eden Space: u=  0% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 82% cu= 50% th=79%
+it= 600 - Par Eden Space: u= 43% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 68% cu= 55% th=79%
+memory threshold exceeded !!! : 
+        - Par Eden Space: u=  0% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 83% cu= 55% th=79%
+memory threshold exceeded !!! : 
+        - Par Eden Space: u=  0% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 80% cu= 71% th=79%
+it= 700 - Par Eden Space: u=  8% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 78% cu= 64% th=79%
+memory threshold exceeded !!! : 
+        - Par Eden Space: u=  0% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 83% cu= 64% th=79%
+memory threshold exceeded !!! : 
+        - Par Eden Space: u=  0% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 82% cu= 67% th=79%
+memory threshold exceeded !!! : 
+        - Par Eden Space: u=  0% cu=  0% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 83% cu= 70% th=79%
+memory collection threshold exceeded !!! : 
+        - Par Eden Space: u= 15% cu= 15% th=0% - Par Survivor Space: u= 99% cu= 99% th=0% - CMS Old Gen: u= 84% cu= 84% th=79%
